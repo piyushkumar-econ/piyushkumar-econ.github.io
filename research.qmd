@@ -50,6 +50,11 @@ Verma, V. R., **Kumar, P.**, & Dash, U. (2021). [Assessing the household economi
 :::
 
 ::: item
+[Improving Health Service Delivery: Using Patient Pathway Analytics for Person-Centered Health System Assessments, Volume 2](https://hdl.handle.net/10986/43328){.title}<br>
+[World Bank practical guide · 2025 · acknowledged by name]{.meta}
+:::
+
+::: item
 Taylor, **Kumar** & McLarnon. [Focusing on agency can strengthen SBC programming for climate adaptation]{.title}<br>
 [Blog · Climatelinks (USAID) · 2023 · no longer online after USAID's closure]{.meta}
 :::
