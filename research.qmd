@@ -1,0 +1,63 @@
+---
+title: "Research & talks"
+---
+
+## Working papers
+
+::: item
+[Heat Stress and the Last Mile: Wet-Bulb Temperature and ASHA Postnatal Home Visits in India]{.title}<br>
+[Working paper · NFHS-5 linked with CHIRTS satellite temperature data · multilevel logistic regression]{.meta}
+:::
+
+::: item
+[Climate shocks and women's agency in Bangladesh]{.title}<br>
+[Under peer review · DHS data linked with drought (SPEI-48) and flood-risk indices · multilevel regression. With USAID, UC San Diego and Save the Children.]{.meta}
+:::
+
+## Publications
+
+::: item
+Verma, V. R., **Kumar, P.**, & Dash, U. (2021). [Assessing the household economic burden of non-communicable diseases in India: evidence from repeated cross-sectional surveys](https://doi.org/10.1186/s12889-021-10828-3). *BMC Public Health*, 21, 881.
+:::
+
+## Conference presentations
+
+::: item
+[Inequality in Geriatric Hospitalisation in India]{.title}<br>
+[Oral presentation · IHEA World Congress, Bali · 2025]{.meta}
+:::
+
+::: item
+[Geospatial Methods in Evaluation]{.title}<br>
+[Oral presentation · Evaluation Conclave South Asia, Colombo · 2025 · invited for a journal special issue]{.meta}
+:::
+
+::: item
+[Women's Empowerment and Contraceptive Method Mix]{.title}<br>
+[Co-author · IUSSP International Population Conference, Brisbane · 2025]{.meta}
+:::
+
+## Reports and commentary
+
+::: item
+[COMMIT Cambodia Midterm Evaluation Report]{.title}<br>
+[USAID Development Experience Clearinghouse · 2023]{.meta}
+:::
+
+::: item
+Taylor, **Kumar** & McLarnon. [Focusing on agency can strengthen SBC programming for climate adaptation]{.title}<br>
+[Blog · Climatelinks · 2023]{.meta}
+:::
+
+## Research tools
+
+::: item
+[NSSO 75th round (2017–18) health survey: Stata import kit](https://github.com/piyushkumar-econ)<br>
+[Dictionaries and a single import script that build analysis-ready Stata files from the MoSPI unit-level data]{.meta}
+:::
+
+## Awards
+
+::: item
+[Best Paper Award]{.title} · [Kerala Sociological Society · 2017]{.meta}
+:::

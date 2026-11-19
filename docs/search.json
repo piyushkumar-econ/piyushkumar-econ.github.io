@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Piyush Kumar",
+    "section": "",
+    "text": "Climate · Health · Evidence for development finance\nI spent six years measuring whether health programmes work. Now I sit on the funder side, helping decide where climate money goes. My job is to bring evidence discipline to climate and health investment decisions.\nI am a Portfolio Manager at a climate action advisory in New Delhi. I work on programme design, monitoring, evaluation and learning (MEL) frameworks, partner due diligence and portfolio oversight for climate investments across India and the Global South. Before this, I designed outcome frameworks for a Global South climate philanthropy.\nFrom 2018 to 2025 I led MEL and evaluation work at Sambodhi Research and Communications. These were programmes funded by the Gates Foundation, Gavi, USAID and the World Bank in India, Bangladesh and Cambodia. The work ranged from a 36,000-household maternal and child health survey in Uttar Pradesh, to zero-dose immunisation strategy across 143 districts, to a patient-pathways tool for the World Bank’s health systems programme in Gujarat.\nMy research combines large household surveys (NFHS, NSSO, DHS) with satellite climate data. I ask who bears the health and financial costs of illness and of a warming climate. Current work looks at how extreme heat affects frontline health workers’ home visits after childbirth, and at inequality in hospitalisation among older Indians.\nI hold a five-year integrated MA in Development Studies from IIT Madras. I work in Stata, R, Python and QGIS."
+  },
+  {
+    "objectID": "index.html#elsewhere",
+    "href": "index.html#elsewhere",
+    "title": "Piyush Kumar",
+    "section": "Elsewhere",
+    "text": "Elsewhere\nLinkedIn · GitHub · psh.kumar@outlook.com"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & talks",
+    "section": "",
+    "text": "Heat Stress and the Last Mile: Wet-Bulb Temperature and ASHA Postnatal Home Visits in India Working paper · NFHS-5 linked with CHIRTS satellite temperature data · multilevel logistic regression\n\n\nClimate shocks and women’s agency in Bangladesh Under peer review · DHS data linked with drought (SPEI-48) and flood-risk indices · multilevel regression. With USAID, UC San Diego and Save the Children."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research & talks",
+    "section": "",
+    "text": "Heat Stress and the Last Mile: Wet-Bulb Temperature and ASHA Postnatal Home Visits in India Working paper · NFHS-5 linked with CHIRTS satellite temperature data · multilevel logistic regression\n\n\nClimate shocks and women’s agency in Bangladesh Under peer review · DHS data linked with drought (SPEI-48) and flood-risk indices · multilevel regression. With USAID, UC San Diego and Save the Children."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research & talks",
+    "section": "Publications",
+    "text": "Publications\n\nVerma, V. R., Kumar, P., & Dash, U. (2021). Assessing the household economic burden of non-communicable diseases in India: evidence from repeated cross-sectional surveys. BMC Public Health, 21, 881."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research & talks",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\nInequality in Geriatric Hospitalisation in India Oral presentation · IHEA World Congress, Bali · 2025\n\n\nGeospatial Methods in Evaluation Oral presentation · Evaluation Conclave South Asia, Colombo · 2025 · invited for a journal special issue\n\n\nWomen’s Empowerment and Contraceptive Method Mix Co-author · IUSSP International Population Conference, Brisbane · 2025"
+  },
+  {
+    "objectID": "research.html#reports-and-commentary",
+    "href": "research.html#reports-and-commentary",
+    "title": "Research & talks",
+    "section": "Reports and commentary",
+    "text": "Reports and commentary\n\nCOMMIT Cambodia Midterm Evaluation Report USAID Development Experience Clearinghouse · 2023\n\n\nTaylor, Kumar & McLarnon. Focusing on agency can strengthen SBC programming for climate adaptation Blog · Climatelinks · 2023"
+  },
+  {
+    "objectID": "research.html#research-tools",
+    "href": "research.html#research-tools",
+    "title": "Research & talks",
+    "section": "Research tools",
+    "text": "Research tools\n\nNSSO 75th round (2017–18) health survey: Stata import kit Dictionaries and a single import script that build analysis-ready Stata files from the MoSPI unit-level data"
+  },
+  {
+    "objectID": "research.html#awards",
+    "href": "research.html#awards",
+    "title": "Research & talks",
+    "section": "Awards",
+    "text": "Awards\n\nBest Paper Award · Kerala Sociological Society · 2017"
+  }
+]
