@@ -41,7 +41,12 @@ Verma, V. R., **Kumar, P.**, & Dash, U. (2021). [Assessing the household economi
 
 ::: item
 [COMMIT Cambodia Midterm Evaluation Report]{.title}<br>
-[USAID Development Experience Clearinghouse · 2023]{.meta}
+[USAID Development Experience Clearinghouse · 2023 · no longer publicly available; copy on request]{.meta}
+:::
+
+::: item
+[Patient Pathway Analysis to Guide Primary Health Care Redesign and Transformation: Applications in Bangladesh, Ghana and India](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099051625165019870){.title}<br>
+[World Bank · 2024 · acknowledged as part of the Sambodhi team that implemented the patient pathway analysis in four Gujarat districts]{.meta}
 :::
 
 ::: item
